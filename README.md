@@ -1,6 +1,8 @@
 ### Hi there I'm Daan Hautekiet 👋
-
- ![](https://visitor-badge.glitch.me/badge?page_id=Nohty.Nohty)
+[<img align="left" alt="nohty's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />][discordServer]
+[<img align="left" alt="Nohty | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="Nohty's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />][spotify]
+![](https://visitor-badge.glitch.me/badge?page_id=Nohty.Nohty)
 
 I am a software engineer student. I love programming, traveling and gaming.
 
@@ -8,7 +10,7 @@ I am a software engineer student. I love programming, traveling and gaming.
 
 - 🔭 I’m currently working on a discord bot.
 - 🌱 I’m currently learning Java, PHP and Javascript.
-- 📫 How to reach me: [Discord](https://discordapp.com/users/501656039750500363)
+- 📫 How to reach me: [Discord][discord]
 
 ### languages and tools:  
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
@@ -43,3 +45,7 @@ No Activity tracked this Week
 [mongodb]: https://www.mongodb.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
+[discord]: https://discordapp.com/users/501656039750500363
+[discordServer]: https://discord.gg/EM3gKEM
+[twitter]: https://twitter.com/Daan79288425
+[spotify]: https://open.spotify.com/user/m9iuavpptfn6k82sxuxifkzj2?si=eb9dd42b79364144
