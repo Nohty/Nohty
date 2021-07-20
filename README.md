@@ -19,5 +19,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-📈 **My GitHub Stats:**
-![Nohty’ GitHub stats](https://github-readme-stats.vercel.app/api?username=Nohty&theme=synthwave&show_icons=true&count_private=true)
+📈 **My GitHub Stats:**  
+<a href="https://github.com/Nohty/Nohty">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nohty&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
