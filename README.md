@@ -4,23 +4,42 @@
 
 I am a software engineer student. I love programming, traveling and gaming.
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
 
 - 🔭 I’m currently working on a discord bot.
 - 🌱 I’m currently learning Java, PHP and Javascript.
 - 📫 How to reach me: [Discord](https://discordapp.com/users/501656039750500363)
 
-</br>
+### languages and tools:  
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphql]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-📊 **This Week I Spent My Time On:**
+<br />
+
+### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-📈 **My GitHub Stats:**
+### 📈 My GitHub Stats:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nohty&hide=html,tex&langs_count=3&theme=gotham" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nohty&show_icons=true&line_height=27&theme=gotham" alt="Nohty" />
 </P>
+
+[vsCode]: https://code.visualstudio.com/
+[typescript]: https://www.typescriptlang.org/
+[graphql]: https://graphql.org/
+[nodejs]: https://nodejs.org/en/
+[mysql]: https://www.mysql.com/
+[mongodb]: https://www.mongodb.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/
