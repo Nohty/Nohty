@@ -1,19 +1,17 @@
-### Hi there 👋
+### Hi there I'm Daan Hautekiet 👋
 
-<!--
-**Nohty/Nohty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Nohty.Nohty)
 
-Here are some ideas to get you started:
+I am a software engineer student. I love programming, traveling and gaming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+**Talking about Personal Stuffs:**
+
+- 🔭 I’m currently working on a discord bot.
+- 🌱 I’m currently learning Java, PHP and Javascript.
+- 📫 How to reach me: [Discord](https://discordapp.com/users/501656039750500363)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nohty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--START_SECTION:waka-->
 ```text
