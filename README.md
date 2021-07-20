@@ -1,6 +1,6 @@
 ### Hi there I'm Daan Hautekiet 👋
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Nohty.Nohty)
+ ![](https://visitor-badge.glitch.me/badge?page_id=Nohty.Nohty)
 
 I am a software engineer student. I love programming, traveling and gaming.
 
@@ -19,10 +19,8 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-📈 **My GitHub Stats:**  
-<a href="https://github.com/Nohty/Nohty">
+📈 **My GitHub Stats:**
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nohty&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Nohty/Nohty">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nohty&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nohty's GitHub Stats" />
-</a>
+</P>
