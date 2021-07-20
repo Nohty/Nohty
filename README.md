@@ -24,13 +24,6 @@ I am a software engineer student. I love programming, traveling and gaming.
 
 <br />
 
-### 📊 This Week I Spent My Time On:
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 ### 📈 My GitHub Stats:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nohty&hide=html,tex&langs_count=3&theme=gotham" />
