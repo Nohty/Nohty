@@ -1,7 +1,7 @@
 ### Hi there I'm Daan Hautekiet 👋
-[<img align="left" alt="nohty's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />][discordServer]
-[<img align="left" alt="Nohty | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-[<img align="left" alt="Nohty's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />][spotify]
+[<img align="left" alt="nohty's Discord" width="22px" src="https://raw.githubusercontent.com/Nohty/Nohty/main/assets/discord.svg" />][discordServer]
+[<img align="left" alt="Nohty | Twitter" width="22px" src="https://raw.githubusercontent.com/Nohty/Nohty/main/assets/twitter.svg" />][twitter]
+[<img align="left" alt="Nohty's Spotify" width="22px" src="https://raw.githubusercontent.com/Nohty/Nohty/main/assets/spotify.svg" />][spotify]
 ![](https://visitor-badge.glitch.me/badge?page_id=Nohty.Nohty)
 
 I am a software engineer student. I love programming, traveling and gaming.
