@@ -8,7 +8,6 @@ I am a software engineer student. I love programming, traveling and gaming.
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on a discord bot.
 - 🌱 I’m currently learning Go, Rust and Typescript.
 - 📫 How to reach me: [Discord][discord]
 
