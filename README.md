@@ -6,7 +6,7 @@
 
 I am a software engineer. I love programming, traveling and gaming.
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 🌱 I’m currently learning Go, Rust and Typescript.
 - 📫 How to reach me: [Discord][discord]
