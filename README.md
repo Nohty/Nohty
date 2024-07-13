@@ -4,7 +4,7 @@
 [<img align="left" alt="Nohty's Spotify" width="22px" src="https://raw.githubusercontent.com/Nohty/Nohty/main/assets/spotify.svg" />][spotify]
 ![](https://visitor-badge.glitch.me/badge?page_id=Nohty.Nohty)
 
-I am a software engineer student. I love programming, traveling and gaming.
+I am a software engineer. I love programming, traveling and gaming.
 
 ### Talking about Personal Stuffs:
 
